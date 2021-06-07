@@ -1,0 +1,2 @@
+# thesimongame
+This project was built as a part of 'The Complete Web Dev Bootcamp ' by Angela Yu. You have to play it to understand how it works . It is a straightforward game, wherein you are required to remember your previous moves along with your present move and retrace your moves .I know I'm making it sound complicated but I promise once you play the game, you'll immediately get the hang of it.
